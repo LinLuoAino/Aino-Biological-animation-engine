@@ -22,6 +22,11 @@ git clone https://github.com/Aino-Biological-animation-engine/aino-pro.git
 cd aino-pro && mkdir build && cd build
 cmake .. && make -j$(nproc) && ./demo
 
+---
+
 ## 请不要嘲笑我 / Please don't laugh at me.
 Aino 制作最初是因为我的imgui的动画不够完美，事实上Aino相当一部分代码来自于AI因为我无法解决过于复杂的方程
 Aino was created initially because the animations in my ImGui were not perfect. In fact, a large part of Aino's code was derived from AI because I was unable to solve overly complex equations.
+
+
+---
